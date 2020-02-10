@@ -1,5 +1,5 @@
 provider "google" {
-  project = "zonedetest"
+  project = "cr-460-gettingstartedterraform"
   credentials = "account.json"
   region  = "us-central1"
   zone    = "us-central1-c"
